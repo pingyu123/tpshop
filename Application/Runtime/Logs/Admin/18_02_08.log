@@ -1,0 +1,37 @@
+[ 2018-02-08T12:06:36+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.3509s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-02-08T12:09:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.2958s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.4652s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 1  [ RunTime:0.0007s ]
+
+[ 2018-02-08T12:09:52+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002325s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.2268s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.2207s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 2  [ RunTime:0.0007s ]
+
+[ 2018-02-08T12:14:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001099s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0981s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.2592s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 2  [ RunTime:0.0008s ]
+

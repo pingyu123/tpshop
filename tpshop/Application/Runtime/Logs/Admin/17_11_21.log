@@ -1,0 +1,42 @@
+[ 2017-11-21T09:03:47+08:00 ] 127.0.0.1 /index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-11-21T09:04:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-11-21T09:04:11+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 模板不存在:./Application/Admin/View/Goods/add.html
+
+[ 2017-11-21T09:12:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2017-11-21T09:53:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+ERR: 模板不存在:./Application/Admin/View/Goods/index.html
+
+[ 2017-11-21T14:30:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+ERR: 模板不存在:./Application/Admin/View/Goods/index.html
+
+[ 2017-11-21T15:21:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/list
+ERR: 非法操作:list
+
+[ 2017-11-21T15:51:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/list
+ERR: 非法操作:list
+
+[ 2017-11-21T16:57:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/indx
+ERR: 非法操作:indx
+
+[ 2017-11-21T19:23:37+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index
+ERR: Think\Model:selece方法不存在！
+
+[ 2017-11-21T19:24:03+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index
+ERR: Think\Controller:assgin方法不存在！
+

@@ -1,0 +1,45 @@
+[ 2018-03-01T17:51:29+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.1899s ]
+
+[ 2018-03-01T17:51:31+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.1773s ]
+
+[ 2018-03-01T17:51:32+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001139s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0396s ]
+
+[ 2018-03-01T17:51:33+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001511s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.3694s ]
+
+[ 2018-03-01T17:51:39+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001684s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0708s ]
+
+[ 2018-03-01T17:52:15+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001544s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.1812s ]
+
+[ 2018-03-01T17:52:36+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001213s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.1466s ]
+
+[ 2018-03-01T17:53:53+08:00 ] 127.0.0.1 /index.php/Home/User/home.html
+ERR: 非法操作:home
+

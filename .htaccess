@@ -1,0 +1,15 @@
+<IfModule mod_rewrite.c>
+  Options +FollowSymlinks
+  RewriteEngine On
+
+  RewriteRule ^detail_(\d+).html$ index.php?s=/Home/Index/detail/id/$1 [QSA,PT,L]
+
+  #RewriteRule ^cart.html$ index.php?s=/Home/Cart/cart [QSA,PT,L]
+
+  RewriteCond %{HTTP_REFERER} !www.tpshop.com
+  RewriteRule ^(?!(ueditor))(.*)(jpg|png|gif|jpeg|bmp)$ default.gif
+
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^(.*)$ index.php?s=$1 [QSA,PT,L]
+</IfModule>

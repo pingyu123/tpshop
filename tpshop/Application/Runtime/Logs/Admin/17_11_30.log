@@ -1,0 +1,107 @@
+[ 2017-11-30T08:43:47+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001866s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0501s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-11-30T08:47:22+08:00 ] 127.0.0.1 /index.php/Admin/Role/bootstrap-responsive.min.css
+ERR: 非法操作:bootstrap-responsive.min.css
+
+[ 2017-11-30T08:47:43+08:00 ] 127.0.0.1 /index.php/Admin/Role/bootstrap-responsive.min.css
+ERR: 非法操作:bootstrap-responsive.min.css
+
+[ 2017-11-30T08:47:45+08:00 ] 127.0.0.1 /index.php/Admin/Role/add
+ERR: 非法操作:add
+
+[ 2017-11-30T08:47:48+08:00 ] 127.0.0.1 /index.php/Admin/Role/bootstrap-responsive.min.css
+ERR: 非法操作:bootstrap-responsive.min.css
+
+[ 2017-11-30T08:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Role/bootstrap-responsive.min.css
+ERR: 非法操作:bootstrap-responsive.min.css
+
+[ 2017-11-30T17:24:16+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001232s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0438s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-11-30T20:33:17+08:00 ] 127.0.0.1 /Admin/Index/add
+ERR: 非法操作:add
+
+[ 2017-11-30T20:45:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001411s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0392s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0006s ]
+
+[ 2017-11-30T20:45:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001515s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0258s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0229s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 2  [ RunTime:0.0004s ]
+
+[ 2017-11-30T20:45:27+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001409s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0427s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0215s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 0  [ RunTime:0.0004s ]
+
+[ 2017-11-30T20:45:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002197s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0430s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0219s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 2  [ RunTime:0.0004s ]
+
+[ 2017-11-30T20:49:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001331s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0566s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0603s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 12  [ RunTime:0.0006s ]
+
+[ 2017-11-30T20:58:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001608s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0510s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0345s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 12  [ RunTime:0.0006s ]
+
+[ 2017-11-30T21:09:57+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001778s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0487s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-11-30T22:44:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001822s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0385s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0168s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 12  [ RunTime:0.0004s ]
+

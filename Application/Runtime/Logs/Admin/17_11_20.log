@@ -1,0 +1,432 @@
+[ 2017-11-20T10:13:12+08:00 ] 127.0.0.1 /index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+
+[ 2017-11-20T10:13:26+08:00 ] 127.0.0.1 /index.php/Admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2017-11-20T10:18:28+08:00 ] 127.0.0.1 /index.php/Admin/edit/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+ERR: 无法加载控制器:Edit
+
+[ 2017-11-20T10:19:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 模板不存在:./Application/Admin/View/Goods/edit.html
+
+[ 2017-11-20T10:19:17+08:00 ] 127.0.0.1 /index.php/Admin/index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001860s ]
+ERR: 非法操作:edit
+
+[ 2017-11-20T10:19:21+08:00 ] 127.0.0.1 /index.php/Admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-11-20T10:19:29+08:00 ] 127.0.0.1 /index.php/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载控制器:Add
+
+[ 2017-11-20T10:19:32+08:00 ] 127.0.0.1 /index.php/Admin/add/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+ERR: 无法加载控制器:Add
+
+[ 2017-11-20T10:19:40+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-11-20T10:19:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+ERR: 模板不存在:./Application/Admin/View/Goods/index.html
+
+[ 2017-11-20T10:20:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/deit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001379s ]
+ERR: 非法操作:deit
+
+[ 2017-11-20T10:20:55+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2017-11-20T10:23:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+
+[ 2017-11-20T10:24:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 模板不存在:./Application/Admin/View/Goods/index.html
+
+[ 2017-11-20T10:24:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 非法操作:list
+
+[ 2017-11-20T10:24:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 模板不存在:./Application/Admin/View/Goods/index.html
+
+[ 2017-11-20T10:24:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-11-20T10:25:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+
+[ 2017-11-20T10:25:36+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-11-20T10:26:35+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-11-20T10:26:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+
+[ 2017-11-20T10:26:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2017-11-20T10:26:54+08:00 ] 127.0.0.1 /index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002284s ]
+
+[ 2017-11-20T10:28:18+08:00 ] 127.0.0.1 /index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+
+[ 2017-11-20T10:28:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+ERR: 模板不存在:./Application/Admin/View/Goods/index.html
+
+[ 2017-11-20T10:28:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 模板不存在:./Application/Admin/View/Goods/index.html
+
+[ 2017-11-20T10:29:40+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2017-11-20T10:35:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+ERR: 模板不存在:./Application/Admin/View/Manager/mannger_list.html
+
+[ 2017-11-20T10:36:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-11-20T10:39:01+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2017-11-20T10:40:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-11-20T10:45:13+08:00 ] 127.0.0.1 /index.php/Admin/Type/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2017-11-20T10:45:52+08:00 ] 127.0.0.1 /index.php/Admin/Type/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001112s ]
+
+[ 2017-11-20T10:45:52+08:00 ] 127.0.0.1 /index.php/Admin/Type/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+ERR: 非法操作:css
+
+[ 2017-11-20T10:45:52+08:00 ] 127.0.0.1 /index.php/Admin/Type/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001612s ]
+ERR: 非法操作:css
+
+[ 2017-11-20T10:45:52+08:00 ] 127.0.0.1 /index.php/Admin/Type/css/bootstrap-responsive.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002643s ]
+ERR: 非法操作:css
+
+[ 2017-11-20T10:45:52+08:00 ] 127.0.0.1 /index.php/Admin/Type/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+ERR: 非法操作:js
+
+[ 2017-11-20T10:45:52+08:00 ] 127.0.0.1 /index.php/Admin/Type/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+ERR: 非法操作:js
+
+[ 2017-11-20T10:45:52+08:00 ] 127.0.0.1 /index.php/Admin/Type/js/calendar/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+ERR: 非法操作:js
+
+[ 2017-11-20T10:46:27+08:00 ] 127.0.0.1 /index.php/Admin/Type/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001163s ]
+
+[ 2017-11-20T10:46:32+08:00 ] 127.0.0.1 /index.php/Admin/Type/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-11-20T10:47:01+08:00 ] 127.0.0.1 /index.php/Admin/Type/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-11-20T10:52:03+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+
+[ 2017-11-20T10:52:44+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-11-20T10:52:55+08:00 ] 127.0.0.1 /index.php/Admin/Type/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2017-11-20T10:54:16+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001443s ]
+
+[ 2017-11-20T10:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+
+[ 2017-11-20T10:58:20+08:00 ] 127.0.0.1 /index.php/Admin/Auth/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2017-11-20T10:58:20+08:00 ] 127.0.0.1 /index.php/Admin/Auth/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 非法操作:css
+
+[ 2017-11-20T10:58:20+08:00 ] 127.0.0.1 /index.php/Admin/Auth/css/bootstrap-responsive.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+ERR: 非法操作:css
+
+[ 2017-11-20T10:58:20+08:00 ] 127.0.0.1 /index.php/Admin/Auth/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+ERR: 非法操作:css
+
+[ 2017-11-20T10:58:20+08:00 ] 127.0.0.1 /index.php/Admin/Auth/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+ERR: 非法操作:js
+
+[ 2017-11-20T10:58:20+08:00 ] 127.0.0.1 /index.php/Admin/Auth/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 非法操作:js
+
+[ 2017-11-20T10:59:10+08:00 ] 127.0.0.1 /index.php/Admin/Auth/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-11-20T10:59:10+08:00 ] 127.0.0.1 /index.php/Admin/Auth/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 非法操作:js
+
+[ 2017-11-20T10:59:10+08:00 ] 127.0.0.1 /index.php/Admin/Auth/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+ERR: 非法操作:js
+
+[ 2017-11-20T10:59:10+08:00 ] 127.0.0.1 /index.php/Admin/Auth/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 非法操作:js
+
+[ 2017-11-20T10:59:14+08:00 ] 127.0.0.1 /index.php/Admin/Auth/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001431s ]
+
+[ 2017-11-20T10:59:14+08:00 ] 127.0.0.1 /index.php/Admin/Auth/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001103s ]
+ERR: 非法操作:css
+
+[ 2017-11-20T10:59:14+08:00 ] 127.0.0.1 /index.php/Admin/Auth/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001141s ]
+ERR: 非法操作:css
+
+[ 2017-11-20T10:59:14+08:00 ] 127.0.0.1 /index.php/Admin/Auth/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 非法操作:js
+
+[ 2017-11-20T10:59:14+08:00 ] 127.0.0.1 /index.php/Admin/Auth/css/bootstrap-responsive.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+ERR: 非法操作:css
+
+[ 2017-11-20T10:59:14+08:00 ] 127.0.0.1 /index.php/Admin/Auth/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+ERR: 非法操作:js
+
+[ 2017-11-20T10:59:14+08:00 ] 127.0.0.1 /index.php/Admin/Auth/js/calendar/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001038s ]
+ERR: 非法操作:js
+
+[ 2017-11-20T10:59:15+08:00 ] 127.0.0.1 /index.php/Admin/Auth/js/calendar/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+ERR: 非法操作:js
+
+[ 2017-11-20T10:59:53+08:00 ] 127.0.0.1 /index.php/Admin/Auth/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-11-20T11:05:01+08:00 ] 127.0.0.1 /index.php/Admin/Role/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2017-11-20T11:05:01+08:00 ] 127.0.0.1 /index.php/Admin/Role/bootstrap-responsive.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 非法操作:bootstrap-responsive.min.css
+
+[ 2017-11-20T11:05:01+08:00 ] 127.0.0.1 /index.php/Admin/Role/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001127s ]
+ERR: 非法操作:js
+
+[ 2017-11-20T11:05:01+08:00 ] 127.0.0.1 /index.php/Admin/Role/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000886s ]
+ERR: 非法操作:js
+
+[ 2017-11-20T11:05:01+08:00 ] 127.0.0.1 /index.php/Admin/Role/js/calendar/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+ERR: 非法操作:js
+
+[ 2017-11-20T11:05:01+08:00 ] 127.0.0.1 /index.php/Admin/Role/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 非法操作:js
+
+[ 2017-11-20T11:05:01+08:00 ] 127.0.0.1 /index.php/Admin/Role/js/calendar/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+ERR: 非法操作:js
+
+[ 2017-11-20T11:05:27+08:00 ] 127.0.0.1 /index.php/Admin/Role/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+
+[ 2017-11-20T11:05:27+08:00 ] 127.0.0.1 /index.php/Admin/Role/bootstrap-responsive.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+ERR: 非法操作:bootstrap-responsive.min.css
+
+[ 2017-11-20T11:10:04+08:00 ] 127.0.0.1 /index.php/Admin/Setauth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+ERR: 非法操作:index
+
+[ 2017-11-20T11:10:17+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/setauth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-11-20T22:51:20+08:00 ] 127.0.0.1 /index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+

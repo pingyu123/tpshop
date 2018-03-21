@@ -1,0 +1,12 @@
+[ 2018-03-05T23:05:12+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001469s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0344s ]
+
+[ 2018-03-05T23:05:14+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001664s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0122s ]
+

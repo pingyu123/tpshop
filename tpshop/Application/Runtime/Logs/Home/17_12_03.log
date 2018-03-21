@@ -1,0 +1,585 @@
+[ 2017-12-03T08:49:18+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001730s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0849s ]
+SQL: UPDATE `tpshop_cart` SET `number`='4' WHERE `user_id` = 2 AND `goods_id` = 58 AND `goods_attr_ids` = '52,57,60' [ RunTime:0.0982s ]
+
+[ 2017-12-03T09:00:42+08:00 ] 127.0.0.1 /index.php/Home/Index/nidex
+ERR: 非法操作:nidex
+
+[ 2017-12-03T17:26:19+08:00 ] 127.0.0.1 /Home/Cart/person/order.html
+ERR: 非法操作:person
+
+[ 2017-12-03T19:12:12+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001007s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0230s ]
+SQL: UPDATE `tpshop_cart` SET `number`='36' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0832s ]
+
+[ 2017-12-03T19:12:13+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001538s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0202s ]
+SQL: UPDATE `tpshop_cart` SET `number`='36' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.1072s ]
+
+[ 2017-12-03T19:12:14+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001897s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0564s ]
+SQL: UPDATE `tpshop_cart` SET `number`='36' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0476s ]
+
+[ 2017-12-03T19:12:15+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0658s ]
+SQL: UPDATE `tpshop_cart` SET `number`='36' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0389s ]
+
+[ 2017-12-03T19:12:17+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001402s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0445s ]
+SQL: UPDATE `tpshop_cart` SET `number`='36' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.1470s ]
+
+[ 2017-12-03T19:12:18+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002397s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0530s ]
+SQL: UPDATE `tpshop_cart` SET `number`='36' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.1018s ]
+
+[ 2017-12-03T19:12:19+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001411s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0854s ]
+SQL: UPDATE `tpshop_cart` SET `number`='36' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0439s ]
+
+[ 2017-12-03T19:12:20+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002611s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0205s ]
+SQL: UPDATE `tpshop_cart` SET `number`='36' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0939s ]
+
+[ 2017-12-03T19:12:21+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001131s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0666s ]
+SQL: UPDATE `tpshop_cart` SET `number`='35' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0651s ]
+
+[ 2017-12-03T19:12:23+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001455s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0498s ]
+SQL: UPDATE `tpshop_cart` SET `number`='35' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0801s ]
+
+[ 2017-12-03T19:12:24+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001682s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0266s ]
+SQL: UPDATE `tpshop_cart` SET `number`='35' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0845s ]
+
+[ 2017-12-03T19:12:25+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001830s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.1725s ]
+SQL: UPDATE `tpshop_cart` SET `number`='35' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0397s ]
+
+[ 2017-12-03T19:12:26+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001555s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0248s ]
+SQL: UPDATE `tpshop_cart` SET `number`='35' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0580s ]
+
+[ 2017-12-03T19:12:27+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001647s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0937s ]
+SQL: UPDATE `tpshop_cart` SET `number`='35' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0584s ]
+
+[ 2017-12-03T19:12:29+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001540s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0990s ]
+SQL: UPDATE `tpshop_cart` SET `number`='35' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0241s ]
+
+[ 2017-12-03T19:12:36+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001367s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0486s ]
+SQL: UPDATE `tpshop_cart` SET `number`='7' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0722s ]
+
+[ 2017-12-03T19:12:51+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0204s ]
+SQL: UPDATE `tpshop_cart` SET `number`='8' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0937s ]
+
+[ 2017-12-03T19:12:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001950s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0213s ]
+SQL: UPDATE `tpshop_cart` SET `number`='7' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0528s ]
+
+[ 2017-12-03T19:13:08+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002376s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0701s ]
+SQL: UPDATE `tpshop_cart` SET `number`='5' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0286s ]
+
+[ 2017-12-03T19:13:14+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001302s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0576s ]
+SQL: UPDATE `tpshop_cart` SET `number`='10' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0654s ]
+
+[ 2017-12-03T19:13:24+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0758s ]
+SQL: UPDATE `tpshop_cart` SET `number`='5' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '35,38,42' [ RunTime:0.0280s ]
+
+[ 2017-12-03T19:48:02+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001358s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0211s ]
+SQL: UPDATE `tpshop_cart` SET `number`='11' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0994s ]
+
+[ 2017-12-03T19:48:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001223s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0511s ]
+SQL: UPDATE `tpshop_cart` SET `number`='10' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0590s ]
+
+[ 2017-12-03T20:06:09+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001263s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0518s ]
+SQL: UPDATE `tpshop_cart` SET `number`='1' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '85,89,93' [ RunTime:0.0449s ]
+
+[ 2017-12-03T20:12:27+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.021361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.031976s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0719s ]
+SQL: UPDATE `tpshop_cart` SET `number`='2' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '85,89,93' [ RunTime:0.1157s ]
+
+[ 2017-12-03T20:12:28+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.021218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.035402s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0495s ]
+SQL: UPDATE `tpshop_cart` SET `number`='2' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '85,89,93' [ RunTime:0.0294s ]
+
+[ 2017-12-03T20:12:29+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.021430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.035223s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0811s ]
+SQL: UPDATE `tpshop_cart` SET `number`='2' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '85,89,93' [ RunTime:0.0309s ]
+
+[ 2017-12-03T20:12:30+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001731s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0571s ]
+SQL: UPDATE `tpshop_cart` SET `number`='2' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '85,89,93' [ RunTime:0.0588s ]
+
+[ 2017-12-03T20:12:31+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001377s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.1136s ]
+SQL: UPDATE `tpshop_cart` SET `number`='2' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '85,89,93' [ RunTime:0.0473s ]
+
+[ 2017-12-03T20:12:33+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001142s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0742s ]
+SQL: UPDATE `tpshop_cart` SET `number`='3' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '85,89,93' [ RunTime:0.0322s ]
+
+[ 2017-12-03T20:12:34+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0559s ]
+SQL: DELETE FROM `tpshop_cart` WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '85,89,93' [ RunTime:0.0343s ]
+
+[ 2017-12-03T20:12:41+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001653s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.1058s ]
+SQL: DELETE FROM `tpshop_cart` WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '86,90,93' [ RunTime:0.0368s ]
+
+[ 2017-12-03T20:12:52+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0438s ]
+SQL: UPDATE `tpshop_cart` SET `number`='6' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '35,38,42' [ RunTime:0.1003s ]
+
+[ 2017-12-03T20:12:54+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001116s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0566s ]
+SQL: UPDATE `tpshop_cart` SET `number`='5' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '35,38,42' [ RunTime:0.0621s ]
+
+[ 2017-12-03T20:37:13+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001019s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0356s ]
+SQL: DELETE FROM `tpshop_cart` WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '35,38,42' [ RunTime:0.0654s ]
+
+[ 2017-12-03T20:37:24+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0515s ]
+SQL: UPDATE `tpshop_cart` SET `number`='3' WHERE `user_id` = 2 AND `goods_id` = 58 AND `goods_attr_ids` = '52,57,60' [ RunTime:0.0539s ]
+
+[ 2017-12-03T20:37:27+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001634s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0520s ]
+SQL: UPDATE `tpshop_cart` SET `number`='2' WHERE `user_id` = 2 AND `goods_id` = 58 AND `goods_attr_ids` = '52,57,60' [ RunTime:0.0513s ]
+
+[ 2017-12-03T21:16:19+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001491s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0677s ]
+SQL: UPDATE `tpshop_cart` SET `number`='9' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0433s ]
+
+[ 2017-12-03T21:16:21+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001589s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0384s ]
+SQL: UPDATE `tpshop_cart` SET `number`='9' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0783s ]
+
+[ 2017-12-03T21:16:22+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001388s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0433s ]
+SQL: UPDATE `tpshop_cart` SET `number`='9' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0842s ]
+
+[ 2017-12-03T21:16:23+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001976s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0652s ]
+SQL: UPDATE `tpshop_cart` SET `number`='9' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0829s ]
+
+[ 2017-12-03T21:16:24+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001816s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0407s ]
+SQL: UPDATE `tpshop_cart` SET `number`='9' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0980s ]
+
+[ 2017-12-03T21:16:25+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001813s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0865s ]
+SQL: UPDATE `tpshop_cart` SET `number`='9' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0428s ]
+
+[ 2017-12-03T21:16:35+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002459s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0368s ]
+SQL: UPDATE `tpshop_cart` SET `number`='5' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0655s ]
+
+[ 2017-12-03T21:17:26+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001738s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0559s ]
+SQL: UPDATE `tpshop_cart` SET `number`='4' WHERE `user_id` = 2 AND `goods_id` = 58 AND `goods_attr_ids` = '52,57,60' [ RunTime:0.0521s ]
+
+[ 2017-12-03T21:17:29+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001993s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0655s ]
+SQL: UPDATE `tpshop_cart` SET `number`='5' WHERE `user_id` = 2 AND `goods_id` = 58 AND `goods_attr_ids` = '52,57,60' [ RunTime:0.0459s ]
+
+[ 2017-12-03T21:30:37+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/undefined,undefined
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2017-12-03T21:32:50+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/undefined,undefined
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2017-12-03T21:32:59+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/undefined,undefined
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2017-12-03T21:33:21+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/undefined,undefined
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2017-12-03T21:34:18+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/undefined,undefined
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2017-12-03T21:34:39+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/undefined,undefined
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2017-12-03T21:36:14+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/undefined,undefined
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2017-12-03T21:37:14+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/undefined,undefined
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2017-12-03T21:37:49+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2017-12-03T21:40:02+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2017-12-03T21:55:09+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2017-12-03T21:59:14+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/undefined,undefined
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2017-12-03T21:59:23+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2017-12-03T22:06:33+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2017-12-03T22:06:45+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2017-12-03T22:07:29+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2017-12-03T22:16:27+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:20:39+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:28:34+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:29:14+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:29:26+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:29:31+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:30:12+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:35:27+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:36:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3,6
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:38:23+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3,6
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_price,t2.goods_small_img FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:38:33+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3,6
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:39:01+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3,6
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:43:30+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3,6
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:43:34+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:45:18+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:45:32+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:49:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3,6
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:50:09+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/1,3,6
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-12-03T22:56:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001252s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0979s ]
+SQL: UPDATE `tpshop_cart` SET `number`='3' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '84,89,93' [ RunTime:0.0859s ]
+
+[ 2017-12-03T22:56:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002649s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0823s ]
+SQL: UPDATE `tpshop_cart` SET `number`='3' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '84,89,93' [ RunTime:0.0405s ]
+
+[ 2017-12-03T22:56:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001256s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0601s ]
+SQL: UPDATE `tpshop_cart` SET `number`='4' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '84,89,93' [ RunTime:0.0399s ]
+
+[ 2017-12-03T22:56:07+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001248s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.1205s ]
+SQL: UPDATE `tpshop_cart` SET `number`='2' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '84,89,93' [ RunTime:0.0357s ]
+
+[ 2017-12-03T23:03:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003311s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0816s ]
+SQL: DELETE FROM `tpshop_cart` WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0862s ]
+
+[ 2017-12-03T23:03:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001823s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0561s ]
+SQL: DELETE FROM `tpshop_cart` WHERE `user_id` = 2 AND `goods_id` = 58 AND `goods_attr_ids` = '52,57,60' [ RunTime:0.0511s ]
+
+[ 2017-12-03T23:03:07+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001821s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0619s ]
+SQL: DELETE FROM `tpshop_cart` WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '84,89,93' [ RunTime:0.0474s ]
+
+[ 2017-12-03T23:04:39+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001246s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0629s ]
+SQL: UPDATE `tpshop_cart` SET `number`='9' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '84,89,93' [ RunTime:0.0437s ]
+
+[ 2017-12-03T23:04:40+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002594s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0613s ]
+SQL: UPDATE `tpshop_cart` SET `number`='9' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '84,89,93' [ RunTime:0.0350s ]
+
+[ 2017-12-03T23:04:42+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001258s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0840s ]
+SQL: UPDATE `tpshop_cart` SET `number`='9' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '84,89,93' [ RunTime:0.0354s ]
+
+[ 2017-12-03T23:04:43+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002583s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0802s ]
+SQL: UPDATE `tpshop_cart` SET `number`='9' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '84,89,93' [ RunTime:0.0238s ]
+
+[ 2017-12-03T23:04:44+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002570s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0585s ]
+SQL: UPDATE `tpshop_cart` SET `number`='9' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '84,89,93' [ RunTime:0.0348s ]
+
+[ 2017-12-03T23:04:47+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001264s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0219s ]
+SQL: UPDATE `tpshop_cart` SET `number`='8' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '84,89,93' [ RunTime:0.0814s ]
+
+[ 2017-12-03T23:04:49+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001135s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001913s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0754s ]
+SQL: UPDATE `tpshop_cart` SET `number`='8' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '84,89,93' [ RunTime:0.0779s ]
+
+[ 2017-12-03T23:04:50+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.1019s ]
+SQL: UPDATE `tpshop_cart` SET `number`='7' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '84,89,93' [ RunTime:0.0494s ]
+
+[ 2017-12-03T23:04:51+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001295s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0850s ]
+SQL: UPDATE `tpshop_cart` SET `number`='7' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '84,89,93' [ RunTime:0.0966s ]
+
+[ 2017-12-03T23:04:53+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001248s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0471s ]
+SQL: UPDATE `tpshop_cart` SET `number`='7' WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '84,89,93' [ RunTime:0.0885s ]
+
+[ 2017-12-03T23:36:08+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001888s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0573s ]
+SQL: DELETE FROM `tpshop_cart` WHERE `user_id` = 2 AND `goods_id` = 60 AND `goods_attr_ids` = '84,89,93' [ RunTime:0.0400s ]
+
+[ 2017-12-03T23:54:53+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids/success.html
+ERR: 1054:Unknown column 'success' in 'where clause'
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id = t2.id  WHERE ( t1.id in (success) ) 
+

@@ -1,0 +1,175 @@
+[ 2017-11-29T22:40:03+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002071s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0702s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-11-29T22:42:34+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000881s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001365s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0888s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.1445s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 12  [ RunTime:0.0009s ]
+ERR: Think\Controller:asajReturn方法不存在！
+
+[ 2017-11-29T22:42:36+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001348s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.1407s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.1278s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0010s ]
+ERR: Think\Controller:asajReturn方法不存在！
+
+[ 2017-11-29T22:45:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001368s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0259s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0199s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 0  [ RunTime:0.0003s ]
+ERR: Think\Controller:asajReturn方法不存在！
+
+[ 2017-11-29T22:45:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002015s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0922s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.1114s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0010s ]
+ERR: Think\Controller:asajReturn方法不存在！
+
+[ 2017-11-29T22:46:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001399s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0937s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0666s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 12  [ RunTime:0.0007s ]
+ERR: Think\Controller:asajReturn方法不存在！
+
+[ 2017-11-29T22:47:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001476s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0669s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0468s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0007s ]
+ERR: Think\Controller:asajReturn方法不存在！
+
+[ 2017-11-29T22:48:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002447s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.1510s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0996s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 12  [ RunTime:0.0007s ]
+ERR: Think\Controller:asajReturn方法不存在！
+
+[ 2017-11-29T22:49:11+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001426s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0773s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0490s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0008s ]
+ERR: Think\Controller:asajReturn方法不存在！
+
+[ 2017-11-29T22:51:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001358s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0311s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0179s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0004s ]
+
+[ 2017-11-29T22:53:40+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005190s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.1595s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0472s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 12  [ RunTime:0.0007s ]
+
+[ 2017-11-29T22:56:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001819s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0518s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0286s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0005s ]
+
+[ 2017-11-29T22:58:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001961s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.1228s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0281s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 12  [ RunTime:0.0003s ]
+
+[ 2017-11-29T22:58:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001843s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0825s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0644s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0011s ]
+
+[ 2017-11-29T22:59:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002520s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0413s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0204s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 0  [ RunTime:0.0003s ]
+
+[ 2017-11-29T22:59:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002234s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0685s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0465s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0007s ]
+
+[ 2017-11-29T23:01:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001154s ]
+SQL: SHOW COLUMNS FROM `tpshop_auth` [ RunTime:0.0996s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid = 0 and is_nav = 1 )  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `tpshop_auth` WHERE ( pid > 0 and is_nav = 1 )  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0716s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0015s ]
+

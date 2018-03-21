@@ -1,0 +1,676 @@
+[ 2017-12-02T15:19:25+08:00 ] 127.0.0.1 /index.php/Home/Cart/cart.html
+ERR: 1051:Unknown table 'ti'
+ [ SQL语句 ] : SELECT ti.*,t2.attr_name FROM tpshop_goods_attr t1 left join tpshop_attribute as t2 on t1.attr_id = t2.attr_id  WHERE ( t1.id in (1) ) 
+
+[ 2017-12-02T15:20:17+08:00 ] 127.0.0.1 /index.php/Home/Cart/cart.html
+ERR: 1051:Unknown table 'ti'
+ [ SQL语句 ] : SELECT ti.*,t2.attr_name FROM tpshop_goods_attr t1 left join tpshop_attribute as t2 on t1.attr_id = t2.attr_id  WHERE ( t1.id in (1) ) 
+
+[ 2017-12-02T15:23:08+08:00 ] 127.0.0.1 /index.php/Home/Cart/cart.html
+ERR: 1051:Unknown table 'ti'
+ [ SQL语句 ] : SELECT ti.*,t2.attr_name FROM tpshop_goods_attr t1 left join tpshop_attribute as t2 on t1.attr_id = t2.attr_id  WHERE ( t1.id in (1) ) 
+
+[ 2017-12-02T15:24:27+08:00 ] 127.0.0.1 /index.php/Home/Cart/cart
+ERR: 1051:Unknown table 'ti'
+ [ SQL语句 ] : SELECT ti.*,t2.attr_name FROM tpshop_goods_attr t1 left join tpshop_attribute as t2 on t1.attr_id = t2.attr_id  WHERE ( t1.id in (1) ) 
+
+[ 2017-12-02T15:30:35+08:00 ] 127.0.0.1 /index.php/Home/Cart/cart
+ERR: 1051:Unknown table 'ti'
+ [ SQL语句 ] : SELECT ti.*,t2.attr_name FROM tpshop_goods_attr t1 left join tpshop_attribute as t2 on t1.attr_id = t2.attr_id  WHERE ( t1.id in (1) ) 
+
+[ 2017-12-02T16:22:32+08:00 ] 127.0.0.1 /index.php/Home/Cart/cart
+ERR: 1054:Unknown column 'goods_attr_ids' in 'where clause'
+ [ SQL语句 ] : SELECT t1.*,t2.attr_name FROM tpshop_goods_attr t1 left join tpshop_attribute as t2 on t1.attr_id = t2.attr_id  WHERE ( t1.id in (goods_attr_ids) ) 
+
+[ 2017-12-02T16:23:08+08:00 ] 127.0.0.1 /index.php/Home/Cart/cart
+ERR: 1054:Unknown column 'goods_attr_ids' in 'where clause'
+ [ SQL语句 ] : SELECT t1.*,t2.attr_name FROM tpshop_goods_attr t1 left join tpshop_attribute as t2 on t1.attr_id = t2.attr_id  WHERE ( t1.id in (goods_attr_ids) ) 
+
+[ 2017-12-02T16:24:07+08:00 ] 127.0.0.1 /index.php/Home/Cart/cart
+ERR: 1054:Unknown column 'goods_attr_ids' in 'where clause'
+ [ SQL语句 ] : SELECT t1.*,t2.attr_name FROM tpshop_goods_attr t1 left join tpshop_attribute as t2 on t1.attr_id = t2.attr_id  WHERE ( t1.id in (goods_attr_ids) ) 
+
+[ 2017-12-02T16:25:18+08:00 ] 127.0.0.1 /index.php/Home/Cart/cart
+ERR: 1054:Unknown column 'goods_attr_ids' in 'where clause'
+ [ SQL语句 ] : SELECT t1.*,t2.attr_name FROM tpshop_goods_attr t1 left join tpshop_attribute as t2 on t1.attr_id = t2.attr_id  WHERE ( t1.id in (goods_attr_ids) ) 
+
+[ 2017-12-02T16:27:28+08:00 ] 127.0.0.1 /index.php/Home/Cart/cart
+ERR: 1054:Unknown column 'goods_attr_ids' in 'where clause'
+ [ SQL语句 ] : SELECT t1.*,t2.attr_name FROM tpshop_goods_attr t1 left join tpshop_attribute as t2 on t1.attr_id = t2.attr_id  WHERE ( t1.id in (goods_attr_ids) ) 
+
+[ 2017-12-02T17:25:09+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002250s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 59 行.
+
+[ 2017-12-02T17:25:10+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001824s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 59 行.
+
+[ 2017-12-02T17:26:34+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001831s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 59 行.
+
+[ 2017-12-02T17:29:18+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002212s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 59 行.
+
+[ 2017-12-02T17:29:28+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001766s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 59 行.
+
+[ 2017-12-02T17:29:29+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001659s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 59 行.
+
+[ 2017-12-02T17:29:31+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001791s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 59 行.
+
+[ 2017-12-02T17:31:02+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001919s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 59 行.
+
+[ 2017-12-02T17:31:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001633s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 59 行.
+
+[ 2017-12-02T17:31:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002267s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 59 行.
+
+[ 2017-12-02T17:31:55+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001972s ]
+
+[ 2017-12-02T17:31:56+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001770s ]
+
+[ 2017-12-02T17:31:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001622s ]
+
+[ 2017-12-02T17:31:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001845s ]
+
+[ 2017-12-02T17:31:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001873s ]
+
+[ 2017-12-02T17:31:58+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002246s ]
+
+[ 2017-12-02T17:32:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001770s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 59 行.
+
+[ 2017-12-02T17:32:25+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001655s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 59 行.
+
+[ 2017-12-02T17:32:27+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001761s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 59 行.
+
+[ 2017-12-02T17:32:29+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002331s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 59 行.
+
+[ 2017-12-02T17:32:44+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002026s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 59 行.
+
+[ 2017-12-02T17:33:12+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002170s ]
+
+[ 2017-12-02T17:33:13+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002090s ]
+
+[ 2017-12-02T17:33:13+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001788s ]
+
+[ 2017-12-02T17:33:14+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001704s ]
+
+[ 2017-12-02T17:33:15+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001850s ]
+
+[ 2017-12-02T17:33:16+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001931s ]
+
+[ 2017-12-02T17:33:16+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002145s ]
+
+[ 2017-12-02T17:33:16+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002594s ]
+
+[ 2017-12-02T17:33:16+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001778s ]
+
+[ 2017-12-02T17:33:16+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002507s ]
+
+[ 2017-12-02T17:33:17+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001771s ]
+
+[ 2017-12-02T17:34:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001763s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:34:58+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002491s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:34:59+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001731s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:34:59+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002044s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:34:59+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001891s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:34:59+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002305s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:34:59+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001795s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:35:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002953s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:35:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002605s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:35:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001756s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:35:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001671s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:35:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002954s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:35:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001780s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:35:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002272s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:35:01+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002072s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:35:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001878s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:35:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001742s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:35:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001811s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:35:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001837s ]
+NOTIC: [8] Undefined index: goods_attr_ids C:\tpshop\Application\Home\Controller\CartController.class.php 第 57 行.
+
+[ 2017-12-02T17:39:46+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002724s ]
+
+[ 2017-12-02T17:39:47+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001944s ]
+
+[ 2017-12-02T17:39:47+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001963s ]
+
+[ 2017-12-02T17:39:47+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001716s ]
+
+[ 2017-12-02T17:39:47+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003060s ]
+
+[ 2017-12-02T17:39:48+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002118s ]
+
+[ 2017-12-02T17:39:48+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001714s ]
+
+[ 2017-12-02T17:39:48+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001963s ]
+
+[ 2017-12-02T17:39:48+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001655s ]
+
+[ 2017-12-02T17:39:49+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001867s ]
+
+[ 2017-12-02T17:39:49+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002103s ]
+
+[ 2017-12-02T17:40:01+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002270s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0392s ]
+SQL: UPDATE `tpshop_cart` SET `number`='34' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.1000s ]
+
+[ 2017-12-02T17:40:02+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002389s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0493s ]
+SQL: UPDATE `tpshop_cart` SET `number`='34' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0830s ]
+
+[ 2017-12-02T17:40:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002533s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0481s ]
+SQL: UPDATE `tpshop_cart` SET `number`='34' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0551s ]
+
+[ 2017-12-02T17:40:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002037s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0399s ]
+SQL: UPDATE `tpshop_cart` SET `number`='3' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '35,38,42' [ RunTime:0.0265s ]
+
+[ 2017-12-02T17:40:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001792s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0345s ]
+SQL: UPDATE `tpshop_cart` SET `number`='3' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '35,38,42' [ RunTime:0.0831s ]
+
+[ 2017-12-02T17:40:07+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001817s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0456s ]
+SQL: UPDATE `tpshop_cart` SET `number`='33' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0468s ]
+
+[ 2017-12-02T17:40:08+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001761s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0459s ]
+SQL: UPDATE `tpshop_cart` SET `number`='35' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0681s ]
+
+[ 2017-12-02T17:40:09+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001929s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0767s ]
+SQL: UPDATE `tpshop_cart` SET `number`='35' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0287s ]
+
+[ 2017-12-02T17:40:10+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001879s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0506s ]
+SQL: UPDATE `tpshop_cart` SET `number`='35' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0433s ]
+
+[ 2017-12-02T17:40:12+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001890s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0539s ]
+SQL: UPDATE `tpshop_cart` SET `number`='35' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0516s ]
+
+[ 2017-12-02T17:40:13+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002114s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0512s ]
+SQL: UPDATE `tpshop_cart` SET `number`='2' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '35,38,42' [ RunTime:0.0396s ]
+
+[ 2017-12-02T17:40:14+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001794s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0563s ]
+SQL: UPDATE `tpshop_cart` SET `number`='2' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '35,38,42' [ RunTime:0.0391s ]
+
+[ 2017-12-02T17:40:15+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001964s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.1732s ]
+SQL: UPDATE `tpshop_cart` SET `number`='2' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '35,38,42' [ RunTime:0.0350s ]
+
+[ 2017-12-02T17:40:16+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002148s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0301s ]
+SQL: UPDATE `tpshop_cart` SET `number`='2' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '35,38,42' [ RunTime:0.0770s ]
+
+[ 2017-12-02T17:40:18+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001961s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0317s ]
+SQL: UPDATE `tpshop_cart` SET `number`='34' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0963s ]
+
+[ 2017-12-02T17:40:19+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002854s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0419s ]
+SQL: UPDATE `tpshop_cart` SET `number`='34' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0906s ]
+
+[ 2017-12-02T17:40:20+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001286s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0451s ]
+SQL: UPDATE `tpshop_cart` SET `number`='34' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0900s ]
+
+[ 2017-12-02T17:40:22+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001789s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0679s ]
+SQL: UPDATE `tpshop_cart` SET `number`='35' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0979s ]
+
+[ 2017-12-02T17:40:31+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002029s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0635s ]
+SQL: UPDATE `tpshop_cart` SET `number`='36' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0437s ]
+
+[ 2017-12-02T17:48:23+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001802s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0583s ]
+
+[ 2017-12-02T17:48:25+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001847s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0684s ]
+
+[ 2017-12-02T17:48:27+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002567s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0226s ]
+
+[ 2017-12-02T17:48:36+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001811s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0536s ]
+
+[ 2017-12-02T17:55:15+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002391s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0638s ]
+
+[ 2017-12-02T17:55:17+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001716s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0646s ]
+
+[ 2017-12-02T17:56:32+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001736s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0346s ]
+SQL: UPDATE `tpshop_cart` SET `number`='37' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0868s ]
+
+[ 2017-12-02T17:56:34+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002657s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0439s ]
+SQL: UPDATE `tpshop_cart` SET `number`='36' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0567s ]
+
+[ 2017-12-02T18:16:17+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001627s ]
+NOTIC: [8] Undefined index: new_number C:\tpshop\Application\Home\Controller\CartController.class.php 第 78 行.
+
+[ 2017-12-02T18:16:19+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001590s ]
+NOTIC: [8] Undefined index: new_number C:\tpshop\Application\Home\Controller\CartController.class.php 第 78 行.
+
+[ 2017-12-02T18:16:23+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001590s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0687s ]
+SQL: UPDATE `tpshop_cart` SET `number`='37' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,38,43' [ RunTime:0.0913s ]
+
+[ 2017-12-02T18:16:45+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002717s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0651s ]
+SQL: UPDATE `tpshop_cart` SET `number`='23' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '35,38,42' [ RunTime:0.0475s ]
+
+[ 2017-12-02T18:16:48+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002109s ]
+NOTIC: [8] Undefined index: new_number C:\tpshop\Application\Home\Controller\CartController.class.php 第 78 行.
+
+[ 2017-12-02T18:18:46+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001628s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0547s ]
+NOTIC: [8] Undefined index: new_number C:\tpshop\Application\Home\Controller\CartController.class.php 第 83 行.
+SQL: DELETE FROM `tpshop_cart` WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = null [ RunTime:0.0003s ]
+
+[ 2017-12-02T18:18:50+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001607s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0422s ]
+SQL: UPDATE `tpshop_cart` SET `number`='24' WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '35,38,42' [ RunTime:0.0889s ]
+
+[ 2017-12-02T18:19:15+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001601s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0541s ]
+SQL: DELETE FROM `tpshop_cart` WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '36,39,43' [ RunTime:0.0328s ]
+
+[ 2017-12-02T18:34:29+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002948s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0988s ]
+SQL: DELETE FROM `tpshop_cart` WHERE `user_id` = 2 AND `goods_id` = 57 AND `goods_attr_ids` = '35,38,44' [ RunTime:0.0328s ]
+
+[ 2017-12-02T21:22:08+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002332s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0414s ]
+
+[ 2017-12-02T21:22:10+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001989s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0296s ]
+
+[ 2017-12-02T21:22:12+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001772s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0388s ]
+
+[ 2017-12-02T21:23:50+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002675s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0355s ]
+
+[ 2017-12-02T21:23:51+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001788s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0295s ]
+
+[ 2017-12-02T21:23:52+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003363s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0991s ]
+
+[ 2017-12-02T21:23:53+08:00 ] 127.0.0.1 /index.php/Home/Cart/changenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002271s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0347s ]
+
+[ 2017-12-02T21:24:02+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006256s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0380s ]
+

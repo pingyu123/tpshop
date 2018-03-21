@@ -1,0 +1,12 @@
+[ 2017-12-31T00:11:38+08:00 ] 127.0.0.1 /
+ERR: 1146:Table 'php62.tpshop_category' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tpshop_category`
+
+[ 2017-12-31T00:11:50+08:00 ] 127.0.0.1 /
+ERR: 1146:Table 'php62.tpshop_category' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tpshop_category`
+
+[ 2017-12-31T00:12:50+08:00 ] 127.0.0.1 /
+ERR: 1146:Table 'php62.tpshop_category' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tpshop_category`
+

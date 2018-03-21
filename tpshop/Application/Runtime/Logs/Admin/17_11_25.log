@@ -1,0 +1,36 @@
+[ 2017-11-25T08:55:20+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001693s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0572s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0600s ]
+
+[ 2017-11-25T09:03:33+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000892s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-11-25T09:05:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/add
+ERR: 非法操作:add
+
+[ 2017-11-25T09:05:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/add
+ERR: 非法操作:add
+
+[ 2017-11-25T09:06:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/__MODELE__/Goods/add
+ERR: 非法操作:__MODELE__
+
+[ 2017-11-25T19:00:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit
+ERR: Think\Model:upload_log方法不存在！
+
+[ 2017-11-25T19:25:05+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001212s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0272s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-11-25T19:25:14+08:00 ] 127.0.0.1 /index.php/Admin/Index/add
+ERR: 非法操作:add
+
